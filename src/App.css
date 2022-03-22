@@ -9,14 +9,13 @@ body,
     width: 700px;
     height: 300px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 section > div {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    overflow: hidden;
     background: #daa520;
 }
 
